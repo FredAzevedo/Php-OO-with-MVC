@@ -7,7 +7,8 @@ CMD+R          |CMD+F12 (1) |Lista os métodos da classe e outros símbolos
 CMD+F          |CMD+F    |Busca no arquivo
 CMD+Option+F   |CMD+R    |Busca e troca os valores no arquivo
 CMD+Shift+F    |CMD+Shift+F|Busca, busca e troca e outros em um determinado caminho com várias regras.
-CMD+D (2)         |Option+Up (2) | Seleciona palavra
+CMD+D          |CMD+Shift+Option|Selecio vários valores para edição simultânea.
+CMD+D (2)      |Option+Up (2) | Seleciona palavra
 CMD+D (3)  |Ctrl+G |Busca ocorrências da seleção no resto do arquivo
 (4)           |CMD+Click ou CMD+B|Vai para a definição do símbolo
 CMD+/          |CMD+/ (5) |Comenta linha
